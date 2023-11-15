@@ -1,10 +1,10 @@
 {
-  "name": "work-timer",
+  "name": "timer",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "dist/app.js",
   "scripts": {
-    "start": "tsc && cd dist && node index.js"
+    "start": "tsc && cd dist && node app.js"
   },
   "author": "",
   "license": "ISC",
